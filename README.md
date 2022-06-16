@@ -1,5 +1,5 @@
 # World (iOS)
 
-A simple implementation of the popular word game, Wordle, in Swift/iOS.
+une re création du jeu populaire Wordle, en SwiftUI.
 
-![Wordle - iOS Academy](https://raw.githubusercontent.com/AfrazCodes/Wordle-iOS/main/image.png)
+![screenshot de l'app](https://github.com/Freddy92i/Wordle/blob/main/Screenshot.png)
